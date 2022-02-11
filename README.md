@@ -1,6 +1,6 @@
 # **Hey there! I am Taline**
 
-As a Computer Science student in the Lebanese american university, I am constantly in the pursuit of new tasks and new skills to add to my acedemical knowledge.  
+As a Computer Science student in the Lebanese american university, I am constantly in the pursuit of new tasks and new skills to add to my academical knowledge.  
 - 👯 I’m open for collaboration with other users
 - 🥅 2022 Goals: Get more acquainted to working professionally and delivering full products
 - ⚡ Fun fact: I like creating music and writting poems
